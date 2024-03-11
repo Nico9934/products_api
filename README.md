@@ -1,4 +1,4 @@
-![Portada]("https://github.com/Nico9934/products_api/blob/master/public/portada.png)
+![Portada](https://github.com/Nico9934/products_api/blob/master/public/portada.png)
 
 # API de Productos
 
