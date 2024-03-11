@@ -1,3 +1,5 @@
+![Portada]("./public/portada.png)
+
 # API de Productos
 
 Una simple API para gestionar productos.
