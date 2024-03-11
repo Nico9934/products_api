@@ -1,4 +1,4 @@
-![Portada]("./public/portada.png)
+![Portada]("../public/portada.png)
 
 # API de Productos
 
